@@ -75,4 +75,5 @@ gem 'sprockets-rails', :require => 'sprockets/railtie'
 #JQuery-rails
 gem 'jquery-rails'
 
-
+#SimpleForm
+gem 'simple_form'
